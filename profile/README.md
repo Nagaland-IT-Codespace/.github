@@ -3,7 +3,7 @@
 <p align="center"><img src="https://ditc.nagaland.gov.in/images/ditc-dark.png" alt="project-image"></p>
 
 <h2>💻 Technologies used by us</h2>
-*   Laravel
-*   Ionic
-*   Mysql
-*   Nodejs
+ - Laravel
+ - Ionic
+ - Mysql
+ - Nodejs
