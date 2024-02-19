@@ -5,5 +5,9 @@
 <h2>💻 Technologies used by us</h2>
  - Laravel
  - Ionic
- - Mysql
- - Nodejs
+ - MySql
+ - NodeJs
+ - ElectronJs
+ - Livewire
+ - AlpineJs
+ - Angular
